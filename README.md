@@ -170,6 +170,16 @@ Business storytelling with data
 📸 Dashboard Preview
 (https://github.com/the-tanuja-ghongate/FUTURE_DS_01/blob/main/Screenshot%20of%20Dashboard.png)
 
+📌 How to Use This Dashboard
+
+1. Open the .pbix file in Power BI Desktop
+
+2. Use slicers (Region, Category, Segment, Year) to filter results
+
+3. Hover on visuals to see detailed metrics
+
+4. Use Top-10 product chart to identify key revenue drivers
+
 
 🔗 Internship Track Code
 Track: Data Science & Analytics
