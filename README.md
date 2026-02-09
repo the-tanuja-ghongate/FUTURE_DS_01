@@ -105,11 +105,9 @@ Insight generation
 Business storytelling with data
 
 📸 Dashboard Preview
-
-(Add your dashboard screenshot here in GitHub after upload)
+(https://github.com/the-tanuja-ghongate/FUTURE_DS_01/blob/main/Screenshot%20of%20Dashboard.png)
 
 🔗 Internship Track Code
-
 Track: Data Science & Analytics
 Code: DS
 Task: 01
